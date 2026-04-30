@@ -163,7 +163,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "f1",          title: "Do you offer free estimates?",          content: "Yes, we provide free same-day estimates."},
+          id: "f1",          title: "Do you offer free estimates?",          content: "Yes, we provide free same-day estimates. Most estimates are delivered within 24 hours of our site visit."},
         {
           id: "f2",          title: "Is JM Roofing licensed?",          content: "Yes, we are fully licensed and insured."},
         {
